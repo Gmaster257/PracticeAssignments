@@ -8,12 +8,5 @@ public class App {
         System.out.println("Vin Number: " + car.getVinNumber());
         System.out.println("Color: " + car.getColor());
         System.out.println("Age: " + car.getAge());
-        System.out.println("");
-        // System.out.println("Type a command to get/set a parameter.");
-        /**
-         * if(System.in.???){
-         * 
-         * }
-         */
     }
 }
